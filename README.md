@@ -51,6 +51,4 @@ The program will open a window with a button to select a file for scanning. Once
 
 If you find a bug or have a feature request, please open an issue on GitHub.  Any assistance in improving the script will be helpful.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
